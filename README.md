@@ -1,8 +1,8 @@
 <img src="https://telegra.ph//file/64202f501f38a39b1a8ca.jpg">
 
-<p align="center"> 🔥 PyroZu-Userbot 🔥 </p>
+<p align="center"> 🔥 Dan-Userbot 🔥 </p>
 
-- CLONING Geez Pyro & PyroKar-Userbot
+- CLONING Geez Pyro & Dan-Userbot
 
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
@@ -31,7 +31,7 @@
 
 ## Heroku Deploy!
 <h3 align="center">Click The Button</h3>
-<a href="https://heroku.com/deploy?template=https://github.com/ionmusic/PyroZu-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/Muhamadwildan018/PyroZu-Userbot"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
 </div>
 
 
