@@ -17,7 +17,7 @@ from dotenv import load_dotenv
 load_dotenv("config.env")
 
 
-ALIVE_EMOJI = getenv("ALIVE_EMOJI", "")
+ALIVE_EMOJI = getenv("ALIVE_EMOJI", "𓆩🤖𓆪") 
 ALIVE_LOGO = getenv("ALIVE_LOGO", "https://telegra.ph/file/9b992f562b086e221acdd.jpg")
 ALIVE_TEKS_CUSTOM = getenv("ALIVE_TEKS_CUSTOM", "Hey, I am alive.")
 API_HASH = getenv("API_HASH")
@@ -30,19 +30,19 @@ BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BOT_VER = "1.1.5@main"
 BRANCH = getenv("BRANCH", "main") #don't change
 CMD_HNDLR = cmd
-OWNER_ID = getenv("OWNER_ID", "")
+OWNER_ID = getenv("OWNER_ID", 5779185981"")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 OPENAI_API_KEY = getenv("OPENAI_API_KEY", "")
 CHANNEL = getenv("CHANNEL", "Html12text")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv("GIT_TOKEN", "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")
-GROUP = getenv("GROUP", "kazusupportgrp")
+GROUP = getenv("GROUP", "danusrbot")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
 PM_AUTO_BAN = strtobool(getenv("PM_AUTO_BAN", "True"))
-REPO_URL = getenv("REPO_URL", "https://github.com/ionmusic/PyroZu-Userbot")
+REPO_URL = getenv("REPO_URL", "https://github.com/Muhamadwildan018/Dan-Userbot")
 STRING_SESSION1 = getenv("STRING_SESSION1", "")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
